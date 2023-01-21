@@ -1,7 +1,7 @@
-url: https://hass.chez.chat/manifest.json
+url: https://hass.chez.chat/lovelace
 status: up
 code: 200
-responseTime: 219
-lastUpdated: 2023-01-21T17:34:30.327Z
+responseTime: 368
+lastUpdated: 2023-01-21T17:37:30.272Z
 startTime: Sat Jan 21 2023 16:53:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
