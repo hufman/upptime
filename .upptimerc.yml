@@ -7,8 +7,6 @@ sites:
     url: https://vgmdb.info
   - name: Home Assistant
     url: https://hass.chez.chat/manifest.json
-  - name: Gonic
-    url: https://listen.alucodev.net/ping
   - name: Owncast
     url: https://owncast.hufman.me
 
