@@ -6,7 +6,9 @@ sites:
   - name: VGMdb API
     url: https://vgmdb.info
   - name: Home Assistant
-    url: https://hass.chez.chat/manifest.json
+    url: https://hass.chez.chat/lovelace
+  - name: Gonic
+    url: https://listen.alucodev.net
   - name: Owncast
     url: https://owncast.hufman.me
 
