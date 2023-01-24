@@ -11,6 +11,8 @@ sites:
     url: https://listen.alucodev.net
   - name: Owncast
     url: https://owncast.hufman.me
+  - name: Akkoma
+    url: https://akkoma.chez.chat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
