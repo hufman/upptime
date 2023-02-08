@@ -1,7 +1,7 @@
 url: https://hass.chez.chat/lovelace
-status: down
-code: 502
-responseTime: 692
-lastUpdated: 2023-02-08T16:29:38.480Z
+status: up
+code: 200
+responseTime: 368
+lastUpdated: 2023-02-08T16:46:55.314Z
 startTime: Sat Jan 21 2023 16:53:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
