@@ -1,7 +1,7 @@
 url: https://owncast.hufman.me
-status: up
-code: 200
-responseTime: 983
-lastUpdated: 2023-12-23T23:13:20.860Z
+status: down
+code: 502
+responseTime: 3887
+lastUpdated: 2023-12-24T04:27:04.737Z
 startTime: 2023-01-21T16:54:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
