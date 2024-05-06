@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.57%",
-    "time": 722,
-    "timeDay": 379,
-    "timeWeek": 383,
-    "timeMonth": 352,
-    "timeYear": 820,
+    "time": 721,
+    "timeDay": 418,
+    "timeWeek": 410,
+    "timeMonth": 358,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-04-20": 17,
       "2024-03-17": 23,
@@ -32,8 +32,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1337,
       "2024-01-17": 91,
-      "2023-10-14": 313,
-      "2023-05-07": 119
+      "2023-10-14": 313
     }
   },
   {
@@ -42,15 +41,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.chez.chat.ico",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.36%",
     "time": 457,
-    "timeDay": 518,
-    "timeWeek": 443,
-    "timeMonth": 509,
+    "timeDay": 454,
+    "timeWeek": 466,
+    "timeMonth": 505,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2024-04-24": 53,
@@ -73,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.alucodev.net.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "6.53%",
+    "uptime": "6.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -84,7 +83,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-05": 50,
+      "2024-05-06": 48,
+      "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
@@ -447,8 +447,7 @@
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
-      "2023-05-08": 1440,
-      "2023-05-07": 1440
+      "2023-05-08": 1440
     }
   },
   {
@@ -462,11 +461,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.33%",
-    "time": 779,
-    "timeDay": 898,
-    "timeWeek": 1046,
-    "timeMonth": 1119,
-    "timeYear": 840,
+    "time": 780,
+    "timeDay": 1061,
+    "timeWeek": 1100,
+    "timeMonth": 1121,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2024-04-24": 46,
       "2024-03-22": 17,
@@ -497,9 +496,9 @@
     "uptimeMonth": "99.49%",
     "uptimeYear": "98.66%",
     "time": 451,
-    "timeDay": 420,
-    "timeWeek": 374,
-    "timeMonth": 487,
+    "timeDay": 350,
+    "timeWeek": 391,
+    "timeMonth": 475,
     "timeYear": 461,
     "dailyMinutesDown": {
       "2024-04-25": 17,
