@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-26": 1416,
+      "2024-07-27": 52,
+      "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
@@ -442,8 +443,7 @@
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
-      "2023-07-29": 1440,
-      "2023-07-28": 1440
+      "2023-07-29": 1440
     }
   },
   {
@@ -452,7 +452,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncast.hufman.me.ico",
     "slug": "owncast",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -483,18 +483,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
     "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "94.12%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "97.97%",
+    "uptime": "98.87%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "98.00%",
     "uptimeYear": "98.71%",
     "time": 677,
     "timeDay": 862,
     "timeWeek": 1019,
-    "timeMonth": 1070,
+    "timeMonth": 1059,
     "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-07-26": 84,
+      "2024-07-26": 77,
       "2024-07-25": 63,
       "2024-07-24": 21,
       "2024-07-23": 38,
