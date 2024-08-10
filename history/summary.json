@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.alucodev.net.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "5.42%",
+    "uptime": "5.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-10": 54,
+      "2024-08-10": 317,
       "2024-08-09": 1440,
       "2024-08-08": 1440,
       "2024-08-07": 1440,
@@ -483,18 +483,19 @@
     "url": "https://akkoma.chez.chat",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "97.56%",
+    "uptimeDay": "97.55%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "98.17%",
     "uptimeYear": "98.86%",
-    "time": 747,
-    "timeDay": 1059,
-    "timeWeek": 1346,
-    "timeMonth": 1137,
-    "timeYear": 774,
+    "time": 748,
+    "timeDay": 1072,
+    "timeWeek": 1344,
+    "timeMonth": 1132,
+    "timeYear": 775,
     "dailyMinutesDown": {
+      "2024-08-10": 0,
       "2024-08-09": 35,
       "2024-08-07": 53,
       "2024-08-06": 34,
@@ -570,8 +571,7 @@
       "2023-12-14": 51,
       "2023-11-26": 17,
       "2023-11-19": 20,
-      "2023-11-17": 20,
-      "2023-11-16": 18
+      "2023-11-17": 20
     }
   }
 ]
