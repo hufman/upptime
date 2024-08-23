@@ -1,7 +1,7 @@
 url: https://akkoma.chez.chat
-status: up
-code: 200
-responseTime: 407
-lastUpdated: 2024-08-23T11:50:19.891Z
+status: down
+code: 500
+responseTime: 5329
+lastUpdated: 2024-08-23T14:39:42.286Z
 startTime: 2023-01-24T23:12:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
