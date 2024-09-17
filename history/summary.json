@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 197,
+      "2024-09-17": 643,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -483,16 +483,16 @@
     "url": "https://akkoma.chez.chat",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "98.67%",
     "uptimeWeek": "98.55%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 810,
-    "timeDay": 1100,
-    "timeWeek": 1477,
-    "timeMonth": 1113,
+    "timeDay": 1042,
+    "timeWeek": 1459,
+    "timeMonth": 1117,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2024-09-17": 19,
@@ -562,8 +562,7 @@
       "2024-05-19": 237,
       "2024-05-18": 37,
       "2024-05-17": 28,
-      "2024-05-15": 18,
-      "2024-05-14": 35
+      "2024-05-15": 18
     }
   }
 ]
