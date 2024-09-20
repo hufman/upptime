@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.alucodev.net.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "5.05%",
+    "uptime": "5.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-20": 811,
+      "2024-09-20": 1244,
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
@@ -483,17 +483,17 @@
     "url": "https://akkoma.chez.chat",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "94.82%",
+    "uptimeDay": "94.81%",
     "uptimeWeek": "98.36%",
     "uptimeMonth": "98.62%",
-    "uptimeYear": "99.53%",
-    "time": 813,
-    "timeDay": 1055,
-    "timeWeek": 1183,
-    "timeMonth": 1122,
-    "timeYear": 842,
+    "uptimeYear": "99.54%",
+    "time": 816,
+    "timeDay": 1450,
+    "timeWeek": 1199,
+    "timeMonth": 1149,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2024-09-20": 71,
       "2024-09-19": 4,
@@ -562,8 +562,7 @@
       "2024-06-21": 36,
       "2024-06-16": 50,
       "2024-06-08": 20,
-      "2024-05-19": 237,
-      "2024-05-18": 37
+      "2024-05-19": 237
     }
   }
 ]
