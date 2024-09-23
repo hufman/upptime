@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.60%",
     "time": 689,
-    "timeDay": 370,
-    "timeWeek": 531,
-    "timeMonth": 407,
+    "timeDay": 406,
+    "timeWeek": 343,
+    "timeMonth": 409,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2024-04-20": 17,
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.41%",
-    "time": 446,
-    "timeDay": 678,
-    "timeWeek": 466,
-    "timeMonth": 487,
-    "timeYear": 475,
+    "time": 447,
+    "timeDay": 768,
+    "timeWeek": 512,
+    "timeMonth": 497,
+    "timeYear": 476,
     "dailyMinutesDown": {
       "2024-04-24": 53,
       "2024-02-06": 528,
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-22": 683,
+      "2024-09-23": 59,
+      "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
@@ -442,8 +443,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
-      "2023-09-25": 1440,
-      "2023-09-24": 1440
+      "2023-09-25": 1440
     }
   },
   {
@@ -458,8 +458,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
     "time": 862,
-    "timeDay": 845,
-    "timeWeek": 758,
+    "timeDay": 1064,
+    "timeWeek": 746,
     "timeMonth": 834,
     "timeYear": 895,
     "dailyMinutesDown": {
@@ -484,18 +484,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
     "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "98.29%",
-    "uptimeMonth": "98.65%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "99.53%",
     "time": 831,
-    "timeDay": 2514,
-    "timeWeek": 1448,
-    "timeMonth": 1191,
+    "timeDay": 2644,
+    "timeWeek": 1364,
+    "timeMonth": 1159,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-09-22": 9,
       "2024-09-21": 37,
       "2024-09-20": 71,
       "2024-09-19": 4,
@@ -564,7 +563,7 @@
       "2024-06-21": 36,
       "2024-06-16": 50,
       "2024-06-08": 20,
-      "2024-05-19": 147
+      "2024-05-19": 237
     }
   }
 ]
