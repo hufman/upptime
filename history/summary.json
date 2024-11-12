@@ -4,16 +4,16 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "44.99%",
-    "uptimeWeek": "40.88%",
-    "uptimeMonth": "71.91%",
+    "uptimeDay": "46.61%",
+    "uptimeWeek": "40.94%",
+    "uptimeMonth": "71.97%",
     "uptimeYear": "97.66%",
-    "time": 1941,
+    "time": 1942,
     "timeDay": 4809,
-    "timeWeek": 4949,
-    "timeMonth": 3782,
+    "timeWeek": 4859,
+    "timeMonth": 3788,
     "timeYear": 2229,
     "dailyMinutesDown": {
       "2024-11-12": 564,
@@ -31,7 +31,7 @@
       "2024-10-31": 663,
       "2024-10-30": 861,
       "2024-10-29": 561,
-      "2024-10-28": 249
+      "2024-10-28": 222
     }
   },
   {
@@ -77,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-12": 1153,
+      "2024-11-12": 1213,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -482,17 +482,17 @@
     "slug": "akkoma",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "97.10%",
-    "uptimeMonth": "97.21%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "97.24%",
     "uptimeYear": "99.51%",
     "time": 891,
     "timeDay": 526,
     "timeWeek": 915,
-    "timeMonth": 1045,
+    "timeMonth": 1032,
     "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-11-12": 74,
+      "2024-11-12": 60,
       "2024-11-11": 22,
       "2024-11-10": 45,
       "2024-11-09": 20,
@@ -553,7 +553,8 @@
       "2024-08-22": 17,
       "2024-08-21": 42,
       "2024-08-19": 38,
-      "2024-08-18": 37
+      "2024-08-18": 37,
+      "2024-08-17": 18
     }
   }
 ]
