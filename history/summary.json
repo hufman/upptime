@@ -7,16 +7,16 @@
     "status": "down",
     "uptime": "98.62%",
     "uptimeDay": "50.29%",
-    "uptimeWeek": "50.54%",
-    "uptimeMonth": "69.90%",
+    "uptimeWeek": "50.49%",
+    "uptimeMonth": "69.86%",
     "uptimeYear": "97.49%",
     "time": 2108,
     "timeDay": 5993,
-    "timeWeek": 5342,
-    "timeMonth": 4259,
+    "timeWeek": 5373,
+    "timeMonth": 4273,
     "timeYear": 2340,
     "dailyMinutesDown": {
-      "2024-11-14": 438,
+      "2024-11-14": 459,
       "2024-11-13": 878,
       "2024-11-12": 732,
       "2024-11-11": 850,
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-14": 1162,
+      "2024-11-14": 1183,
       "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
@@ -481,16 +481,16 @@
     "url": "https://akkoma.chez.chat",
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "98.34%",
+    "status": "down",
+    "uptime": "99.74%",
+    "uptimeDay": "98.33%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "99.52%",
     "time": 906,
-    "timeDay": 2821,
-    "timeWeek": 1165,
-    "timeMonth": 1083,
+    "timeDay": 2254,
+    "timeWeek": 1156,
+    "timeMonth": 1081,
     "timeYear": 938,
     "dailyMinutesDown": {
       "2024-11-14": 24,
@@ -554,7 +554,7 @@
       "2024-08-27": 18,
       "2024-08-25": 16,
       "2024-08-22": 17,
-      "2024-08-21": 42
+      "2024-08-21": 21
     }
   }
 ]
