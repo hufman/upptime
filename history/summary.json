@@ -4,16 +4,16 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.61%",
-    "uptimeDay": "34.03%",
-    "uptimeWeek": "45.13%",
-    "uptimeMonth": "69.54%",
+    "uptimeDay": "38.59%",
+    "uptimeWeek": "45.29%",
+    "uptimeMonth": "69.58%",
     "uptimeYear": "97.46%",
-    "time": 2199,
+    "time": 2200,
     "timeDay": 5079,
-    "timeWeek": 5548,
-    "timeMonth": 4487,
+    "timeWeek": 5280,
+    "timeMonth": 4512,
     "timeYear": 2412,
     "dailyMinutesDown": {
       "2024-11-16": 148,
@@ -32,7 +32,7 @@
       "2024-11-03": 966,
       "2024-11-02": 612,
       "2024-11-01": 1440,
-      "2024-10-31": 493
+      "2024-10-31": 476
     }
   },
   {
@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.alucodev.net.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "4.62%",
+    "uptime": "4.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-16": 341,
+      "2024-11-16": 407,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
       "2024-11-13": 1440,
@@ -481,18 +481,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "97.36%",
+    "uptime": "99.73%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.52%",
     "time": 907,
     "timeDay": 531,
-    "timeWeek": 1007,
+    "timeWeek": 1012,
     "timeMonth": 1055,
     "timeYear": 936,
     "dailyMinutesDown": {
-      "2024-11-16": 29,
+      "2024-11-16": 18,
       "2024-11-14": 24,
       "2024-11-13": 40,
       "2024-11-12": 60,
@@ -553,7 +553,8 @@
       "2024-08-28": 35,
       "2024-08-27": 18,
       "2024-08-25": 16,
-      "2024-08-22": 17
+      "2024-08-22": 17,
+      "2024-08-21": 21
     }
   }
 ]
