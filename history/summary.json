@@ -4,17 +4,17 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "51.76%",
-    "uptimeWeek": "46.87%",
-    "uptimeMonth": "73.09%",
+    "uptimeDay": "51.75%",
+    "uptimeWeek": "47.03%",
+    "uptimeMonth": "73.13%",
     "uptimeYear": "97.76%",
-    "time": 2163,
-    "timeDay": 3130,
-    "timeWeek": 5490,
-    "timeMonth": 4635,
-    "timeYear": 2463,
+    "time": 2165,
+    "timeDay": 3124,
+    "timeWeek": 5548,
+    "timeMonth": 4632,
+    "timeYear": 2464,
     "dailyMinutesDown": {
       "2024-11-17": 428,
       "2024-11-16": 613,
@@ -31,7 +31,7 @@
       "2024-11-05": 557,
       "2024-11-04": 655,
       "2024-11-03": 966,
-      "2024-11-02": 97
+      "2024-11-02": 79
     }
   },
   {
@@ -77,7 +77,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-17": 951,
+      "2024-11-17": 994,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -454,12 +454,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 876,
     "timeDay": 1041,
     "timeWeek": 1017,
     "timeMonth": 915,
-    "timeYear": 918,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2024-09-24": 24,
       "2024-08-09": 15,
@@ -480,18 +480,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/akkoma.chez.chat.ico",
     "slug": "akkoma",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "97.37%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.01%",
+    "uptimeMonth": "97.39%",
     "uptimeYear": "99.52%",
     "time": 913,
     "timeDay": 930,
-    "timeWeek": 1079,
+    "timeWeek": 1093,
     "timeMonth": 1046,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2024-11-17": 7,
       "2024-11-16": 55,
       "2024-11-14": 24,
       "2024-11-13": 40,
@@ -551,7 +550,8 @@
       "2024-09-01": 21,
       "2024-08-29": 17,
       "2024-08-28": 35,
-      "2024-08-27": 18
+      "2024-08-27": 18,
+      "2024-08-25": 16
     }
   }
 ]
