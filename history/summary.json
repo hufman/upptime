@@ -4,17 +4,17 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "4.41%",
+    "status": "down",
+    "uptime": "97.69%",
+    "uptimeDay": "5.91%",
     "uptimeWeek": "21.10%",
-    "uptimeMonth": "46.00%",
-    "uptimeYear": "95.50%",
+    "uptimeMonth": "46.41%",
+    "uptimeYear": "95.53%",
     "time": 3522,
-    "timeDay": 5158,
-    "timeWeek": 4798,
-    "timeMonth": 5503,
-    "timeYear": 3825,
+    "timeDay": 2180,
+    "timeWeek": 4796,
+    "timeMonth": 5493,
+    "timeYear": 3823,
     "dailyMinutesDown": {
       "2024-12-27": 744,
       "2024-12-26": 1269,
@@ -37,7 +37,7 @@
       "2024-12-09": 825,
       "2024-12-08": 1173,
       "2024-12-07": 1100,
-      "2024-12-06": 244
+      "2024-12-06": 63
     }
   },
   {
@@ -47,7 +47,7 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "79.06%",
+    "uptimeDay": "81.81%",
     "uptimeWeek": "30.08%",
     "uptimeMonth": "83.91%",
     "uptimeYear": "98.12%",
@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-27": 745,
+      "2024-12-27": 784,
       "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
