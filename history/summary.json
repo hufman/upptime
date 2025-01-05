@@ -6,17 +6,17 @@
     "slug": "vg-mdb-api",
     "status": "up",
     "uptime": "98.22%",
-    "uptimeDay": "28.77%",
-    "uptimeWeek": "25.45%",
-    "uptimeMonth": "58.13%",
+    "uptimeDay": "29.16%",
+    "uptimeWeek": "25.50%",
+    "uptimeMonth": "58.10%",
     "uptimeYear": "96.51%",
     "time": 3701,
-    "timeDay": 7612,
+    "timeDay": 7956,
     "timeWeek": 4712,
     "timeMonth": 5146,
     "timeYear": 3945,
     "dailyMinutesDown": {
-      "2025-01-05": 671,
+      "2025-01-05": 665,
       "2025-01-04": 983,
       "2025-01-03": 1098,
       "2025-01-02": 1204,
@@ -33,7 +33,7 @@
       "2024-12-22": 1223,
       "2024-12-21": 1085,
       "2024-12-20": 941,
-      "2024-12-19": 85
+      "2024-12-19": 103
     }
   },
   {
@@ -83,7 +83,7 @@
     "timeMonth": 3283,
     "timeYear": 3283,
     "dailyMinutesDown": {
-      "2025-01-05": 936,
+      "2025-01-05": 943,
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
@@ -455,9 +455,9 @@
     "url": "https://owncast.hufman.me",
     "icon": "https://icons.duckduckgo.com/ip3/owncast.hufman.me.ico",
     "slug": "owncast",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "96.44%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.38%",
@@ -467,6 +467,7 @@
     "timeMonth": 1000,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2025-01-05": 0,
       "2025-01-03": 98,
       "2025-01-02": 205,
       "2024-12-31": 56,
