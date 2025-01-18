@@ -4,17 +4,17 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "79.91%",
-    "uptimeWeek": "57.12%",
-    "uptimeMonth": "88.24%",
+    "uptimeDay": "80.66%",
+    "uptimeWeek": "57.21%",
+    "uptimeMonth": "88.29%",
     "uptimeYear": "99.02%",
     "time": 3073,
     "timeDay": 823,
     "timeWeek": 934,
-    "timeMonth": 2249,
-    "timeYear": 3180,
+    "timeMonth": 2247,
+    "timeYear": 3179,
     "dailyMinutesDown": {
       "2025-01-18": 177,
       "2025-01-17": 345,
@@ -26,7 +26,7 @@
       "2025-01-11": 388,
       "2025-01-10": 304,
       "2025-01-09": 283,
-      "2025-01-08": 78
+      "2025-01-08": 55
     }
   },
   {
@@ -75,7 +75,7 @@
     "timeMonth": 3283,
     "timeYear": 3283,
     "dailyMinutesDown": {
-      "2025-01-18": 344,
+      "2025-01-18": 355,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -487,7 +487,7 @@
     "timeDay": 298,
     "timeWeek": 339,
     "timeMonth": 410,
-    "timeYear": 1048,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2025-01-07": 62,
       "2024-12-13": 41,
