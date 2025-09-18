@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
     "status": "down",
-    "uptime": "78.36%",
+    "uptime": "78.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.54%",
+    "uptimeYear": "42.27%",
     "time": 2264,
-    "timeDay": 292,
-    "timeWeek": 351,
-    "timeMonth": 436,
+    "timeDay": 229,
+    "timeWeek": 335,
+    "timeMonth": 437,
     "timeYear": 2331,
     "dailyMinutesDown": {
-      "2025-09-17": 12,
+      "2025-09-18": 12,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -245,8 +246,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.35%",
     "time": 440,
-    "timeDay": 351,
-    "timeWeek": 412,
+    "timeDay": 192,
+    "timeWeek": 328,
     "timeMonth": 392,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -279,7 +280,8 @@
     "timeMonth": 0,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-09-17": 13,
+      "2025-09-18": 12,
+      "2025-09-17": 1440,
       "2025-09-16": 1440,
       "2025-09-15": 1440,
       "2025-09-14": 1440,
@@ -642,8 +644,7 @@
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
-      "2024-09-19": 1440,
-      "2024-09-18": 1440
+      "2024-09-19": 1440
     }
   },
   {
@@ -657,11 +658,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.95%",
-    "time": 1139,
-    "timeDay": 2010,
-    "timeWeek": 5222,
-    "timeMonth": 2791,
-    "timeYear": 1215,
+    "time": 1142,
+    "timeDay": 2454,
+    "timeWeek": 5285,
+    "timeMonth": 2797,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2025-08-01": 349,
       "2025-07-24": 18,
@@ -744,10 +745,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 1014,
-    "timeDay": 276,
-    "timeWeek": 371,
-    "timeMonth": 293,
-    "timeYear": 1004,
+    "timeDay": 169,
+    "timeWeek": 330,
+    "timeMonth": 292,
+    "timeYear": 1003,
     "dailyMinutesDown": {
       "2025-05-19": 282,
       "2025-05-18": 54,
@@ -811,8 +812,7 @@
       "2024-09-24": 223,
       "2024-09-21": 37,
       "2024-09-20": 71,
-      "2024-09-19": 4,
-      "2024-09-18": 18
+      "2024-09-19": 4
     }
   }
 ]
