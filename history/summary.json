@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
     "status": "down",
-    "uptime": "75.26%",
+    "uptime": "75.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.58%",
+    "uptimeYear": "31.31%",
     "time": 2389,
-    "timeDay": 202,
-    "timeWeek": 304,
-    "timeMonth": 308,
+    "timeDay": 189,
+    "timeWeek": 221,
+    "timeMonth": 301,
     "timeYear": 2391,
     "dailyMinutesDown": {
-      "2025-10-27": 14,
+      "2025-10-28": 12,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -285,9 +286,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 444,
-    "timeDay": 536,
-    "timeWeek": 463,
-    "timeMonth": 497,
+    "timeDay": 365,
+    "timeWeek": 380,
+    "timeMonth": 492,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-09-23": 43,
@@ -319,7 +320,8 @@
     "timeMonth": 0,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-10-27": 14,
+      "2025-10-28": 13,
+      "2025-10-27": 1440,
       "2025-10-26": 1440,
       "2025-10-25": 1440,
       "2025-10-24": 1440,
@@ -682,8 +684,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 1440,
-      "2024-10-28": 1440
+      "2024-10-29": 1440
     }
   },
   {
@@ -692,15 +693,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/owncast.hufman.me.ico",
     "slug": "owncast",
     "status": "up",
-    "uptime": "93.86%",
+    "uptime": "93.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "85.96%",
     "time": 1219,
-    "timeDay": 1020,
-    "timeWeek": 1243,
-    "timeMonth": 1642,
+    "timeDay": 1041,
+    "timeWeek": 1132,
+    "timeMonth": 1615,
     "timeYear": 1315,
     "dailyMinutesDown": {
       "2025-08-01": 349,
@@ -783,9 +784,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 947,
-    "timeDay": 240,
-    "timeWeek": 301,
-    "timeMonth": 301,
+    "timeDay": 212,
+    "timeWeek": 283,
+    "timeMonth": 296,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2025-05-19": 282,
@@ -824,8 +825,7 @@
       "2024-11-01": 18,
       "2024-10-31": 34,
       "2024-10-30": 24,
-      "2024-10-29": 18,
-      "2024-10-28": 34
+      "2024-10-29": 18
     }
   }
 ]
