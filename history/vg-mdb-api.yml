@@ -1,7 +1,7 @@
 url: https://vgmdb.info
-status: up
-code: 200
-responseTime: 28412
-lastUpdated: 2026-04-22T11:03:32.133Z
+status: down
+code: 502
+responseTime: 170
+lastUpdated: 2026-04-22T11:32:15.690Z
 startTime: 2023-01-21T16:53:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
