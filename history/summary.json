@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.65%",
     "uptimeDay": "78.31%",
-    "uptimeWeek": "65.87%",
+    "uptimeWeek": "66.29%",
     "uptimeMonth": "86.15%",
     "uptimeYear": "98.85%",
     "time": 5770,
     "timeDay": 12027,
-    "timeWeek": 13575,
+    "timeWeek": 13426,
     "timeMonth": 12241,
     "timeYear": 6874,
     "dailyMinutesDown": {
@@ -68,7 +68,8 @@
     "timeMonth": 19714,
     "timeYear": 13691,
     "dailyMinutesDown": {
-      "2026-05-09": 1424,
+      "2026-05-10": 33,
+      "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
@@ -431,8 +432,7 @@
       "2025-05-14": 1440,
       "2025-05-13": 1440,
       "2025-05-12": 1440,
-      "2025-05-11": 1440,
-      "2025-05-10": 1440
+      "2025-05-11": 1440
     }
   },
   {
@@ -442,7 +442,7 @@
     "slug": "owncast",
     "status": "up",
     "uptime": "94.64%",
-    "uptimeDay": "16.42%",
+    "uptimeDay": "19.84%",
     "uptimeWeek": "85.18%",
     "uptimeMonth": "95.48%",
     "uptimeYear": "85.75%",
