@@ -73,7 +73,7 @@
     "timeMonth": 19687,
     "timeYear": 15512,
     "dailyMinutesDown": {
-      "2026-05-18": 7,
+      "2026-05-18": 36,
       "2026-05-17": 1440,
       "2026-05-16": 1440,
       "2026-05-15": 1440,
@@ -448,7 +448,7 @@
     "status": "up",
     "uptime": "94.39%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "53.11%",
+    "uptimeWeek": "53.39%",
     "uptimeMonth": "84.04%",
     "uptimeYear": "84.90%",
     "time": 1469,
