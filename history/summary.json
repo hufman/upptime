@@ -4,17 +4,17 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "75.57%",
-    "uptimeWeek": "87.10%",
-    "uptimeMonth": "87.33%",
-    "uptimeYear": "98.94%",
-    "time": 7537,
-    "timeDay": 13093,
-    "timeWeek": 14368,
-    "timeMonth": 13907,
-    "timeYear": 8478,
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "70.56%",
+    "uptimeWeek": "86.54%",
+    "uptimeMonth": "87.16%",
+    "uptimeYear": "98.93%",
+    "time": 7555,
+    "timeDay": 13573,
+    "timeWeek": 14119,
+    "timeMonth": 13962,
+    "timeYear": 8489,
     "dailyMinutesDown": {
       "2026-05-08": 314,
       "2026-05-09": 313,
@@ -38,7 +38,7 @@
       "2026-05-27": 67,
       "2026-05-28": 232,
       "2026-05-29": 21,
-      "2026-05-30": 331
+      "2026-05-30": 403
     }
   },
   {
@@ -81,7 +81,7 @@
     "timeMonth": 14931,
     "timeYear": 17004,
     "dailyMinutesDown": {
-      "2026-05-30": 768,
+      "2026-05-30": 841,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
