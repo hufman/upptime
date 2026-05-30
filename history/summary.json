@@ -13,7 +13,7 @@
     "time": 7428,
     "timeDay": 14178,
     "timeWeek": 14311,
-    "timeMonth": 13878,
+    "timeMonth": 13848,
     "timeYear": 8434,
     "dailyMinutesDown": {
       "2026-05-07": 234,
@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/listen.alucodev.net.ico",
     "slug": "gonic",
     "status": "down",
-    "uptime": "2.51%",
+    "uptime": "2.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -81,7 +81,8 @@
     "timeMonth": 14931,
     "timeYear": 17004,
     "dailyMinutesDown": {
-      "2026-05-29": 1413,
+      "2026-05-30": 37,
+      "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
@@ -444,8 +445,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 1440,
-      "2025-05-30": 1440
+      "2025-05-31": 1440
     }
   },
   {
@@ -456,13 +456,13 @@
     "status": "up",
     "uptime": "94.27%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.02%",
-    "uptimeMonth": "77.92%",
+    "uptimeWeek": "87.65%",
+    "uptimeMonth": "77.96%",
     "uptimeYear": "84.31%",
     "time": 1478,
     "timeDay": 1540,
     "timeWeek": 1335,
-    "timeMonth": 1092,
+    "timeMonth": 1086,
     "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-07-20": 1260,
