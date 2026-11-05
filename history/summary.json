@@ -4,17 +4,17 @@
     "url": "https://vgmdb.info",
     "icon": "https://icons.duckduckgo.com/ip3/vgmdb.info.ico",
     "slug": "vg-mdb-api",
-    "status": "down",
-    "uptime": "88.77%",
-    "uptimeDay": "66.94%",
+    "status": "up",
+    "uptime": "88.76%",
+    "uptimeDay": "49.95%",
     "uptimeWeek": "55.60%",
     "uptimeMonth": "10.89%",
-    "uptimeYear": "57.44%",
-    "time": 9225,
-    "timeDay": 13965,
-    "timeWeek": 11868,
-    "timeMonth": 11868,
-    "timeYear": 10408,
+    "uptimeYear": "57.39%",
+    "time": 9248,
+    "timeDay": 15267,
+    "timeWeek": 12824,
+    "timeMonth": 12824,
+    "timeYear": 10433,
     "dailyMinutesDown": {
       "2026-05-09": 168,
       "2026-05-10": 155,
@@ -192,7 +192,8 @@
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 521,
-      "2026-11-04": 476
+      "2026-11-04": 553,
+      "2026-11-05": 168
     }
   },
   {
@@ -208,9 +209,9 @@
     "uptimeYear": "99.91%",
     "time": 399,
     "timeDay": 202,
-    "timeWeek": 389,
-    "timeMonth": 338,
-    "timeYear": 391,
+    "timeWeek": 426,
+    "timeMonth": 340,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2026-05-01": 30,
       "2026-05-21": 70,
@@ -232,11 +233,12 @@
     "uptimeYear": "0.00%",
     "time": 5482,
     "timeDay": 531,
-    "timeWeek": 317,
-    "timeMonth": 343,
-    "timeYear": 5142,
+    "timeWeek": 332,
+    "timeMonth": 341,
+    "timeYear": 5069,
     "dailyMinutesDown": {
-      "2026-11-04": 1363,
+      "2026-11-05": 168,
+      "2026-11-04": 1440,
       "2026-11-03": 1440,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
@@ -599,8 +601,7 @@
       "2025-11-09": 1440,
       "2025-11-08": 1440,
       "2025-11-07": 1440,
-      "2025-11-06": 1440,
-      "2025-11-05": 1440
+      "2025-11-06": 1440
     }
   },
   {
@@ -616,9 +617,9 @@
     "uptimeYear": "96.52%",
     "time": 1612,
     "timeDay": 1615,
-    "timeWeek": 1238,
-    "timeMonth": 1335,
-    "timeYear": 1455,
+    "timeWeek": 1191,
+    "timeMonth": 1333,
+    "timeYear": 1454,
     "dailyMinutesDown": {
       "2025-11-07": 27,
       "2026-03-10": 32,
@@ -666,8 +667,8 @@
     "time": 448,
     "timeDay": 1050,
     "timeWeek": 593,
-    "timeMonth": 745,
-    "timeYear": 501,
+    "timeMonth": 751,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2026-03-22": 32,
       "2026-04-26": 246,
